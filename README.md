@@ -1,4 +1,4 @@
-Here are my NLP projects / researches over the past few semesters. 
+Here are my extracurricular NLP projects / researches over the past two years. 
 - Kaggle: CommonLit - Evaluate Student Summaries:
   This is our code for training models for kaggle competition: CommonLit - Evaluate Student Summaries. We cleaned the data, identified important parameters, and first tried out
   different pretrained models' performances on the dataset. We later stacked multiple pretrained huggingface models by building a stacking theme ourselves
